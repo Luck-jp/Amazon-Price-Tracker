@@ -123,6 +123,9 @@ amazon-price-tracker/
 
 ---
 
+👨‍💻 Author
+
+Lakshay
 ## 📜 License
 
 This project is for educational purposes only.
